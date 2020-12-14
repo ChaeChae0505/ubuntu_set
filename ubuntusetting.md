@@ -55,6 +55,11 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.1/lib64
 - [cudnn](https://developer.nvidia.com/rdp/cudnn-archive)
 - 3개 다운 받고 sudo dpkg -i < 다운 받은 것들 deb >
 
+---------------------------------------------------------------------------------------------------
+
+#### ROS install
+- [install wiki](http://wiki.ros.org/melodic/Installation/Ubuntu)
+
 
 ### Git
 $ rm -rf ./.git : git remove
