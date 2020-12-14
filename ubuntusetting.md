@@ -62,6 +62,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.1/lib64
 
 
 ### Git
+```
 $ rm -rf ./.git : git remove
 $ git init : git initialize
 $ git add . : every file updating local git
@@ -72,3 +73,4 @@ $ git push origin master : update local git ----> github
 
 $ git checkout -b <branch> : new <branch> and check in <branch> // local
 $ git push --set-upstream origin <branch> : local branch upstream branch git hub 
+```
