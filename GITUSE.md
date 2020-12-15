@@ -16,6 +16,7 @@ Author: ChaeChae0505 <chaey@koreatech.ac.kr>
 Date:   Mon Dec 14 17:50:33 2020 +0900
 ```
 - git log 의 commit 앞 6자리 복사 
+```
 $ git reset 04657c --hard
 다시 미래로 못감
 ```
