@@ -34,6 +34,11 @@ $ git branch : brach 확인
 $ git checkout <만든 branch> : <만든 branch>로 이동
 
 > 두개 같이 하고 싶을 때 git checkout -b <새로운 branch 명>
+
+> 하고 난 후 branch 그대로 github에 올리는 법
+$ git add .
+$ git commit -m "적고 싶은 말"
+$ git push origin <새로만든 브랜치 명>
 ```
 
 
@@ -82,6 +87,8 @@ $ git status : 원격이랑 다른 점 뜬다
 $ git pull origin master(or branch명) : 원하는 브랜치 파일 받아 오는 법 
 
 > pull 먼저 받고 작업하는게 무조건 좋음!!!!! 협업 시
+
+$ git branch -a :  local / github 브랜치 어떻게 생성 되있는지 다 볼 수 있어 remotes/~(github)
 
 ```
 
