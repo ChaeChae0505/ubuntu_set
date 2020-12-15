@@ -3,7 +3,7 @@ running command 에 대해 안되는 것인 줄 알았다.
 Rospack profile 했을 때 파일 폴더가 안 보이면 그냥 그 창에 source ~/폴더명/devel/setup.bash 하면 된다. 
 
 
-
+```
 
 ####
 #### Running command: "cmake /home/a307/ws/src -DCATKIN_DEVEL_PREFIX=/home/a307/ws/devel -DCMAKE_INSTALL_PREFIX=/home/a307/ws/install -G Unix Makefiles" in "/home/a307/ws/build"
@@ -54,4 +54,4 @@ Rospack profile 했을 때 파일 폴더가 안 보이면 그냥 그 창에 sour
 ####
 #### Running command: "make -j4 -l4" in "/home/a307/ws/build"
 ####
-
+```

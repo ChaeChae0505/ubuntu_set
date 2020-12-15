@@ -63,6 +63,18 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.1/lib64
 
 ### Git
 ```
+first time 
+$ git init
+$ git add .
+$ git status
+$ git config --global user.email " "
+$ git config --global user.name " "
+$ git commit -m " "
+$ git remote add origin {url}
+$ git push -u origin master
+
+
+
 $ rm -rf ./.git : git remove
 $ git init : git initialize
 $ git add . : every file updating local git
