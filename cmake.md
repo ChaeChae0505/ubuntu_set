@@ -2,6 +2,7 @@ running command 에 대해 안되는 것인 줄 알았다.
 돌고 있다는 말이였다. 
 Rospack profile 했을 때 파일 폴더가 안 보이면 그냥 그 창에 source ~/폴더명/devel/setup.bash 하면 된다. 
 
+make -j4 -l4라는 말은 그냥 추천 해주는 것인데 j4가 컴퓨터의 코어 수를 뜻하고 얼마나 사용할 수 있는지 추천 해주는 것
 
 ```
 
